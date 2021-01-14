@@ -1,0 +1,117 @@
+.content {
+    background: #73a600;
+}
+
+
+
+.content div h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #00ffac;
+    transition: 0.3s;
+}
+
+
+.content div:hover h1{
+    font-size: 40px;
+    color: #000;
+}
+
+.content div:hover{
+    background: #00ffac;
+    border-radius: 10px;
+}
+
+
+@media only screen and (min-width: 830px) {
+    .content div img {
+        width: 250px;
+        height: auto;
+        display: block;
+        margin: 20px auto;
+        border-radius: 15px;
+        border: #ff87ad 3px solid;
+        transition: 0.4s;
+        transform: rotate(2deg) scale(0.9);
+    }
+    .content div {
+        height: 400px;
+        transition: 0.3s;
+    }
+    .content div i {
+        font-size: 30px;
+        position: relative;
+        right: 13px;
+        bottom: 23px;
+        float: right;
+        transition: 0.6s;
+        transform: scale(0);
+    }
+}
+@media only screen and (max-width: 829px) {
+    .content div img {
+        width: 180px;
+        height: auto;
+        display: block;
+        margin: 20px auto;
+        border-radius: 15px;
+        border: #ff87ad 3px solid;
+        transition: 0.4s;
+        transform: rotate(2deg) scale(0.9);
+    }
+    .content div {
+        height: 400px;
+        transition: 0.3s;
+        position: relative;
+    }
+    .content div i {
+        font-size: 30px;
+        position: relative;
+        right: 8px;
+        bottom: -45px;
+        float: right;
+        transition: 0.6s;
+        transform: scale(0);
+    }
+}
+@media only screen and (max-width: 599px) {
+    .content div img {
+        width: 230px;
+        height: auto;
+        display: block;
+        margin: 20px auto;
+        border-radius: 15px;
+        border: #ff87ad 3px solid;
+        transition: 0.4s;
+        transform: rotate(2deg) scale(0.9);
+    }
+    .content div {
+        height: 400px;
+        transition: 0.3s;
+        border-bottom: black 1px solid;
+    }
+    .content div i {
+        font-size: 30px;
+        position: relative;
+        right: 13px;
+        bottom: 5px;
+        float: right;
+        transition: 0.6s;
+        transform: scale(0);
+    }
+}
+
+.content div:hover i{
+    transform: scale(1);
+    color: red;
+}
+
+
+
+
+.content div:hover img:hover{
+    transform: rotate(-2deg) scale(1.05);
+}
+.content div:hover img{
+    transform: rotate(0) scale(1);
+}

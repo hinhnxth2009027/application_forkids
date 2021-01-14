@@ -1,0 +1,459 @@
+
+
+
+.body-conten > div > div {
+    border-bottom: black 1px solid;
+}
+
+.body-conten > div > .row-1 {
+    text-align: center;
+}
+
+
+.row-1 span, .row-1 p {
+    font-size: 40px;
+}
+
+
+@media only screen and (min-width: 1000px) {
+
+
+
+
+
+
+
+
+
+    .number1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #00ffac;
+        width: 130px;
+        height: 130px;
+        font-size: 80px;
+        margin: 5px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+    .number1_5 {
+        margin: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #dffc5e;
+        width: 130px;
+        height: 130px;
+        font-size: 80px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+    .number2 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ff42cd;
+        width: 130px;
+        height: 130px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+
+    .number2_5 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ada1ee;
+        width: 130px;
+        height: 130px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+
+    .number3 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: black 2px solid;
+        background: #ffa302;
+        width: 130px;
+        height: 130px;
+        border-radius: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .row-1 {
+        display: flex;
+        height: 120px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row-1 div {
+        width: 40px;
+        height: 40px;
+        border-radius: 5px;
+        border: black 1px solid;
+        background: red;
+        margin: 0 5px;
+    }
+
+    .body-conten > div {
+        width: 90%;
+        margin: 0 auto;
+        clear: left;
+    }
+
+    .boder_right {
+        border-left: 1px solid black;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .boder_right {
+        border-left: 1px solid black;
+    }
+}
+@media only screen and (max-width: 500px) {
+
+    .row-1 {
+        display: flex;
+        height: 120px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row-1 div {
+        width: 35px;
+        height: 35px;
+        border-radius: 5px;
+        border: black 1px solid;
+        background: red;
+        margin: 0 3px;
+    }
+
+    .body-conten > div {
+        width: 100%;
+        margin: 0 auto;
+        clear: left;
+    }
+
+    .number1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #00ffac;
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+    .number1_5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #dffc5e;
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+    .number2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ff42cd;
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+
+    .number2_5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ada1ee;
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+
+    .number3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: black 2px solid;
+        background: #ffa302;
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        border-radius: 15px;
+        margin: 2px;
+    }
+}
+
+@media only screen and (min-width: 501px) {
+
+
+
+
+
+
+
+    .number1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #00ffac;
+        width: 90px;
+        height: 90px;
+        font-size: 50px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+    .number1_5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #dffc5e;
+        width: 90px;
+        height: 90px;
+        font-size: 50px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+    .number2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ff42cd;
+        width: 90px;
+        height: 90px;
+        font-size: 50px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+
+    .number2_5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ada1ee;
+        width: 90px;
+        height: 90px;
+        font-size: 50px;
+        border: black 2px solid;
+        border-radius: 15px;
+        margin: 2px;
+    }
+
+    .number3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: black 2px solid;
+        background: #ffa302;
+        width: 90px;
+        height: 90px;
+        font-size: 50px;
+        border-radius: 15px;
+        margin: 2px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .row-1 {
+        display: flex;
+        height: 120px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row-1 div {
+        width: 35px;
+        height: 35px;
+        border-radius: 5px;
+        border: black 1px solid;
+        background: red;
+        margin: 0 3px;
+    }
+
+    .body-conten > div {
+        width: 100%;
+        margin: 0 auto;
+        clear: left;
+    }
+}
+
+
+.small_container:hover{
+    background: rgba(0,0,0,0.04);
+}
+
+.small_container:hover .row-1{
+    transform:scale(1);
+}
+
+.small_container .row-1 {
+    transform:scale(0.9);
+    transition: 0.4s;
+}
+
+.small_container {
+    overflow: hidden;
+}
+
+
+.calculator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.body-conten1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1200px) {
+    .number1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #00ffac;
+        width: 190px;
+        height: 190px;
+        font-size: 80px;
+        margin: 5px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+    .number1_5 {
+        margin: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #dffc5e;
+        width: 190px;
+        height: 190px;
+        font-size: 80px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+    .number2 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ff42cd;
+        width: 190px;
+        height: 190px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+
+    .number2_5 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ada1ee;
+        width: 190px;
+        height: 190px;
+        border: black 2px solid;
+        border-radius: 15px;
+    }
+
+    .number3 {
+        margin: 5px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: black 2px solid;
+        background: #ffa302;
+        width: 190px;
+        height: 190px;
+        border-radius: 15px;
+    }
+}
+
+
+button:hover{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.btncontaner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+button {
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    display: block;
+    border-radius: 5px;
+    background: #00ffac;
+    border: red 2px solid;
+    transition: 0.4s;
+    cursor: pointer;
+}
