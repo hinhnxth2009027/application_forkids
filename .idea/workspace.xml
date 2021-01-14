@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f9e22c9-ec3c-404a-b68d-a893f6b9173b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/html/animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/animal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/calculate.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/calculate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/vegetable-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/vegetable-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
       <workItem from="1610511670176" duration="19093000" />
       <workItem from="1610573416814" duration="23219000" />
       <workItem from="1610605109390" duration="8213000" />
-      <workItem from="1610613491895" duration="14007000" />
+      <workItem from="1610613491895" duration="14344000" />
     </task>
     <servers />
   </component>
