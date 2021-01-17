@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9e22c9-ec3c-404a-b68d-a893f6b9173b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Img/animal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/banner_gamepage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/dauhoi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/dayandweek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/math.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/ngoisao-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script/week_and_month.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style/slide_abc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style/week_and_month.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/audio-succes-fales/beep-06.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/minigame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/parents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/week_and_month.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Img/banner_vegetable.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Img/days-of-the-week.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Img/enimal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/animal.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/animal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/calculate.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/calculate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/color.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/count123.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/count123.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/read-abc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/read-abc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/vegettable.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script/vegettable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/calculate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/calculate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/color.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/count123.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/count123.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/one-hundred-color.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/one-hundred-color.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/read-abc.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/read-abc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/vegetable.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/vegetable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio-succes-fales/failed.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/audio/audio-succes-fales/failed.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/animal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/calculate.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/calculate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/color.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/color.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/count123.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/count123.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/learn_abc.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/learn_abc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/vegetable-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/vegetable-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +82,7 @@
       <workItem from="1610688522181" duration="6704000" />
       <workItem from="1610751870264" duration="16189000" />
       <workItem from="1610775349029" duration="30269000" />
-      <workItem from="1610834643646" duration="16907000" />
+      <workItem from="1610834643646" duration="17676000" />
     </task>
     <servers />
   </component>
