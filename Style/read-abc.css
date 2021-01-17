@@ -3,10 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-
-
 /**************************RESPONSIVE************************/
-
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 576px) {
     .pt-colum {
@@ -26,7 +23,6 @@ body {
         width: 0;
     }
 }
-
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 576px) {
     .pt-colum {
@@ -46,7 +42,6 @@ body {
         width: 0;
     }
 }
-
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .pt-colum {
@@ -74,7 +69,6 @@ body {
         width: 0;
     }
 }
-
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .pt-colum {
@@ -95,9 +89,6 @@ body {
         width: 100%;
     }
 }
-
-
-
 /**********************KHẮC PHỤC LỖI CỦA FLOAT LEFT*******************/
 div {
     zoom: 1;
@@ -155,7 +146,6 @@ div > .pt-border-dashed:hover .pt-volume {
 .pt-volume:hover {
     transform: scale(1.2);
 }
-
 /*****************ICON XUNG QUANH*****************/
 .pt-icon3-ctn {
     left: 0;
@@ -171,10 +161,6 @@ div > .pt-border-dashed:hover .pt-volume {
     top: 0;
     z-index: 0;
 }
-
-
-
-
 .pt-icon2, .pt-icon3, .pt-icon1, .pt-img-abc {
     width: 100%;
 }
@@ -185,9 +171,9 @@ div > .pt-border-dashed:hover .pt-volume {
     bottom: 0;
     width: 240px;
 }
-
-
-
+.play-music {
+    transition: 0.4s;
+}
 /**************************************************RAU CU QUA********************************************/
 .pt-container-vegetable {
     width: 90%;
@@ -213,7 +199,6 @@ img.pt-img-vegetable {
 h1.pt-h1-vegetable {
     text-align: center;
 }
-
 .media audio{
     height: 0;
     display: inline;
@@ -223,16 +208,6 @@ h1.pt-h1-vegetable {
     width: 1px;
     overflow: hidden;
 }
-
 i {
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-

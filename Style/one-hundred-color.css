@@ -38,14 +38,6 @@
     color: #ff4ce7;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
 .class-11 {
     color: #ff5c20;
     font-weight: bold;
@@ -86,16 +78,6 @@
     color: #ff4ce7;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
 .class-21 {
     color: #994321;
     font-weight: bold;
@@ -136,19 +118,6 @@
     color: #801c71;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-31 {
     color: #ff5c20;
     font-weight: bold;
@@ -189,16 +158,6 @@
     color: #ff4ce7;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
 .class-41 {
     color: #ff5c20;
     font-weight: bold;
@@ -239,23 +198,6 @@
     color: #e778d4;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-51 {
     color: #ff5c20;
     font-weight: bold;
@@ -296,26 +238,6 @@
     color: #8a387f;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-61 {
     color: #ff5c20;
     font-weight: bold;
@@ -356,27 +278,6 @@
     color: #b3ff28;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-71 {
     color: #7e4734;
     font-weight: bold;
@@ -417,19 +318,6 @@
     color: #ff4ce7;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-81 {
     color: #ff5c20;
     font-weight: bold;
@@ -470,28 +358,6 @@
     color: #ff4ce7;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .class-91 {
     color: #ff5c20;
     font-weight: bold;
@@ -532,23 +398,19 @@
     color: #b373ad;
     font-weight: bold;
 }
-
-
-
-
-.tranfom1   {-webkit-animation: tranfom1   4s linear infinite;}
-.tranfom2   {-webkit-animation: tranfom2   5s linear infinite;}
-.tranfom3   {-webkit-animation: tranfom3   6s linear infinite;}
+.tranfom1   {-webkit-animation: tranfom1   4.07s linear infinite;}
+.tranfom2   {-webkit-animation: tranfom2   5.1s linear infinite;}
+.tranfom3   {-webkit-animation: tranfom3   6.2s linear infinite;}
 .tranfom4   {-webkit-animation: tranfom4   5s linear infinite;}
-.tranfom5   {-webkit-animation: tranfom5   4.5s linear infinite;}
-.tranfom6   {-webkit-animation: tranfom6   5s linear infinite;}
+.tranfom5   {-webkit-animation: tranfom5   5.5s linear infinite;}
+.tranfom6   {-webkit-animation: tranfom6   4.4s linear infinite;}
 .tranfom7   {-webkit-animation: tranfom7   5.5s linear infinite;}
-.tranfom8   {-webkit-animation: tranfom8   5s linear infinite;}
-.tranfom9   {-webkit-animation: tranfom9   5s linear infinite;}
+.tranfom8   {-webkit-animation: tranfom8   4.3s linear infinite;}
+.tranfom9   {-webkit-animation: tranfom9   5.3s linear infinite;}
 .tranfom10  {-webkit-animation: tranfom10  6.7s linear infinite;}
-.tranfom11  {-webkit-animation: tranfom11  7s linear infinite;}
+.tranfom11  {-webkit-animation: tranfom11  7.3s linear infinite;}
 .tranfom12  {-webkit-animation: tranfom12  7.4s linear infinite;}
-.tranfom13  {-webkit-animation: tranfom13  7s linear infinite;}
+.tranfom13  {-webkit-animation: tranfom13  7.8s linear infinite;}
 .tranfom14  {-webkit-animation: tranfom14  5.7s linear infinite;}
 .tranfom15  {-webkit-animation: tranfom15  7s linear infinite;}
 .tranfom16  {-webkit-animation: tranfom16  7s linear infinite;}
@@ -636,20 +498,18 @@
 .tranfom98  {-webkit-animation: tranfom98  5s linear infinite;}
 .tranfom99  {-webkit-animation: tranfom99  6.5s linear infinite;}
 .tranfom100 {-webkit-animation: tranfom100 5s linear infinite;}
-
-
 @keyframes tranfom1   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-@keyframes tranfom2   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
+@keyframes tranfom2   { 0%{transform: translateY(0)translateX(0)} 27%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom3   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-@keyframes tranfom4   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
+@keyframes tranfom4   { 0%{transform: translateY(0)translateX(0)} 29%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom5   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom6   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom7   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-@keyframes tranfom8   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
+@keyframes tranfom8   { 0%{transform: translateY(0)translateX(0)} 29%{transform: translateY(-23px) translateX(-20px)} 59%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom9   { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-@keyframes tranfom10  { 0%{transform: translateY(0)translateX(0)} 30%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
+@keyframes tranfom10  { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-30px) translateX(-30px)} 59%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom11  { 0%{transform: translateY(0)translateX(0)} 30%{transform: translateY(-25px) translateX(-30px)} 60%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-@keyframes tranfom12  { 0%{transform: translateY(0)translateX(0)} 30%{transform: translateY(-25px) translateX(-30px)} 60%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
+@keyframes tranfom12  { 0%{transform: translateY(0)translateX(0)} 37%{transform: translateY(-25px) translateX(-30px)} 60%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom13  { 0%{transform: translateY(0)translateX(0)} 30%{transform: translateY(-25px) translateX(-30px)} 60%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom14  { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 60%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
 @keyframes tranfom15  { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-25px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-25px) translateX(40px)} 100%{transform: translateY(0) translateX(0)} }

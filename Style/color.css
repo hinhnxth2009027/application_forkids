@@ -4,26 +4,17 @@
     background: rgba(0,0,0,0.02);
     border-bottom: black 0 solid;
 }
-
-
 .content>div>.col-4:hover i {
-    color: #1a2e51;
+    color: #e586e5;
 }
-
-
 .content>div>.col-4 {
     box-sizing: border-box;
     position: relative;
     transition: 0.4s;
 }
-
-
 .content>div>.col-4:hover h1{
     -webkit-text-stroke-color: #000000;
 }
-
-
-
 @media only screen and (max-width: 459px) {
     .content > div > .col-4 h1 {
         font-size: 70px;

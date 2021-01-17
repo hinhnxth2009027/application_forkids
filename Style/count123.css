@@ -15,7 +15,6 @@
     transition: 0.4s;
     overflow: hidden;
 }
-
 @media only screen and (min-width: 870px) {
     .content>div>.col-3 h1 {
         font-size: 130px;
@@ -30,8 +29,6 @@
         cursor: pointer;
     }
 }
-
-
 @media only screen and (min-width: 768px) {
     .content>div>.col-3 h1 {
         font-size: 100px;
@@ -46,7 +43,6 @@
         cursor: pointer;
     }
 }
-
 @media only screen and (max-width: 767px) {
     .content>div>.col-3 h1 {
         font-size: 130px;
@@ -61,17 +57,7 @@
         cursor: pointer;
     }
 }
-
-
-
-
-
 .rotating {-webkit-animation: tranfom 5s linear infinite;}
-
-
-
-
-
 @keyframes rotating {
     0%{transform: translateY(0)translateX(0)}
     25%{transform: translateY(-40px) translateX(-30px)}
@@ -79,16 +65,7 @@
     75%{transform: translateY(-40px) translateX(30px)}
     100%{transform: translateY(0) translateX(0)}
 }
-
-
-
-
-
 @keyframes rotating { 0%{transform: translateY(0)translateX(0)} 25%{transform: translateY(-40px) translateX(-30px)} 50%{transform: translateY(0) translateX(0)} 75%{transform: translateY(-40px) translateX(30px)} 100%{transform: translateY(0) translateX(0)} }
-
-
-
-
 .content>div>.col-3 i {
     font-size: 0;
     font-weight: bold;
@@ -102,9 +79,6 @@
     display: block;
     font-size: 35px;
 }
-
-
-
 .content>div>.col-3 h2 {
     font-size: 40px;
     cursor: pointer;
@@ -124,38 +98,14 @@
     width: 1px;
     overflow: hidden;
 }
-
-
-
-
 .active {
     border-bottom: black 2px solid;
     font-weight: bold;
     font-size: 20px;
 }
-
 .hiden {
     display: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .content div .col-4:hover{
     box-shadow: black 1px 3px 6px;
     background: rgba(0,0,0,0.005);
@@ -180,8 +130,6 @@
     transition: 0.5s;
     cursor: pointer;
 }
-
-
 .content>div>.col-4 i {
     font-size: 0;
     font-weight: bold;
@@ -195,8 +143,6 @@
     display: block;
     font-size: 35px;
 }
-
-
 .content>div>.col-4 h2 {
     font-size: 40px;
     cursor: pointer;
@@ -207,5 +153,6 @@
 .content>div>.col-4 i:hover {
     color: red;
 }
-
-
+i.fa-volume-up {
+    color: #ffacc7;
+}

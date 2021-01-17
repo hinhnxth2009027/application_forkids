@@ -4,11 +4,10 @@ document.addEventListener('DOMContentLoaded', function () {
     var media = document.querySelector('.media')
     var content = document.querySelector('.content')
     for (let i = 1; i <= 36; i++) {
-        content.innerHTML += `<div class="col-4 col-s-4"><img src="../Img/img_animal/${i}.jpg"><br><h1>${nameAnimal[i]}</h1><i class="fa fa-volume-up" aria-hidden="true" id="${i}"></i></div>`
+        content.innerHTML += `<div class="col-4 col-s-4 i" id="${i}"><img src="../Img/img_animal/${i}.jpg"><br><h1>${nameAnimal[i]}</h1><i class="fa fa-volume-up" aria-hidden="true"></i></div>`
         console.log(`'../audio/audi0-animal/${i}.mp3',`)
     }
-
-    var btnplayAudio = document.querySelectorAll('.content>div>i')
+    var btnplayAudio = document.querySelectorAll('.i')
     for (let i = 0; i < btnplayAudio.length; i++) {
         btnplayAudio[i].onclick = function () {
                 media.innerHTML = ` <audio controls autoplay><source src="${audio_animal[this.id]}"></audio>`
@@ -17,5 +16,4 @@ document.addEventListener('DOMContentLoaded', function () {
                 media.innerHTML = ''
             }
         }
-
 })
